@@ -1,7 +1,6 @@
 import json
 import os
 
-# File to save contacts
 CONTACT_FILE = "contacts.json"
 
 def load_contacts():
